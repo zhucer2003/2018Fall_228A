@@ -4,13 +4,13 @@
 
 On Julia
 
-[Tutorial notebook]()
+[Tutorial notebook](https://github.com/lin-lin/MATH228A/blob/master/others/Basics.ipynb)
 
 [Learn X in Y minutes](https://learnxinyminutes.com/docs/julia/)
 
 [The Julia Express](http://bogumilkaminski.pl/files/julia_express.pdf)
 
-[Steven Johnson's Julia-intro](https://github.com/stevengj/1806/blob/master/julia/Julia-intro.pdf)
+[Steven Johnson's Julia-intro](https://github.com/lin-lin/MATH228A/blob/master/others/Julia-intro.pdf) 
 
 [MATLAB–Python–Julia cheatsheet](https://cheatsheets.quantecon.org/)
 
