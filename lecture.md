@@ -2,9 +2,20 @@
 
 ## Lecture 1 (8/22)
 
-On Julia
+On Julia. 
 
-[Tutorial notebook](https://github.com/lin-lin/MATH228A/blob/master/notebooks/Basics.ipynb)
+**Note**: v0.7 and v1.0 released on 8/8/2018 introduces many breaking
+changes. So there is a bit learning curve if you are somewhat familiar
+with previous versions of Julia before. I compiled a few things below I
+noticed when migrating my old code snippets and notebooks used in the
+lecture in this [pdf file](https://github.com/lin-lin/MATH228A/blob/master/others/JuliaChange_v0.7.pdf).
+
+Here is a notebook introducing some basic features of Julia.
+
+[Tutorial notebook](https://github.com/lin-lin/MATH228A/blob/master/notebooks/Basics.ipynb), v0.7 compatible
+
+Here are a few other online documents (some information may be
+out-of-date).
 
 [Learn X in Y minutes](https://learnxinyminutes.com/docs/julia/)
 
