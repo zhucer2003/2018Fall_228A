@@ -4,7 +4,7 @@
 
 On Julia
 
-[Tutorial notebook](https://github.com/lin-lin/MATH228A/blob/master/others/Basics.ipynb)
+[Tutorial notebook](https://github.com/lin-lin/MATH228A/blob/master/notebooks/Basics.ipynb)
 
 [Learn X in Y minutes](https://learnxinyminutes.com/docs/julia/)
 
