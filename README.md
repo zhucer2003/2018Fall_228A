@@ -11,4 +11,6 @@ This repository mainly contains information for
 
 o [Lecture notes](lecture.md)
 
-o [Assignments](assignment.md)
+Assignments and assignment solutions will be posted here on bCourses.
+
+
