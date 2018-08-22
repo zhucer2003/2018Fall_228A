@@ -2,6 +2,8 @@
 
 ## Lecture 1 (8/22)
 
+[General information pdf](https://github.com/lin-lin/MATH228A/blob/master/others/228A_Note_general.pdf)
+
 On Julia. 
 
 **Note**: v0.7 and v1.0 released on 8/8/2018 introduces many breaking
@@ -26,6 +28,7 @@ out-of-date).
 [MATLAB–Python–Julia cheatsheet](https://cheatsheets.quantecon.org/)
 
 [Julia manual](https://docs.julialang.org/en/stable/)
+
 
 
 ## Lecture 2 (8/24)
