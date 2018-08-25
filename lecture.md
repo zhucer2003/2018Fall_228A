@@ -2,9 +2,13 @@
 
 ## Lecture 1 (8/22)
 
-[General information pdf](https://github.com/lin-lin/MATH228A/blob/master/others/228A_Note_general.pdf)
+General discussion on ordinary differential equations.
 
-On Julia. 
+Introducing Julia. 
+
+
+[Handout slides](https://github.com/lin-lin/MATH228A/blob/master/others/228A_Note_general.pdf)
+
 
 **Note**: v0.7 and v1.0 released on 8/8/2018 introduces many breaking
 changes. So there is a bit learning curve if you are somewhat familiar
@@ -14,7 +18,7 @@ lecture in this [pdf file](https://github.com/lin-lin/MATH228A/blob/master/other
 
 Here is a notebook introducing some basic features of Julia.
 
-[Tutorial notebook](https://github.com/lin-lin/MATH228A/blob/master/notebooks/Basics.ipynb), v0.7 compatible
+[Tutorial notebook](http://nbviewer.jupyter.org/github/lin-lin/MATH228A/blob/master/notebooks/Basics.ipynb), v0.7 compatible
 
 Here are a few other online documents (some information may be
 out-of-date).
@@ -32,4 +36,19 @@ out-of-date).
 
 
 ## Lecture 2 (8/24)
+
+Lipschitz continuity; Euler's method
+
+## Lecture 3 (8/27)
+
+
+## Lecture 4 (8/29)
+
+
+## Lecture 5 (8/31)
+
+
+## Lecture 6 (9/5)
+
+## Lecture 7 (9/7)
 
