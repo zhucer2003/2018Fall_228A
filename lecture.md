@@ -18,7 +18,7 @@ lecture in this [pdf file](https://github.com/lin-lin/MATH228A/blob/master/other
 
 Here is a notebook introducing some basic features of Julia.
 
-[Tutorial notebook](http://nbviewer.jupyter.org/github/lin-lin/MATH228A/blob/master/notebooks/Basics.ipynb), v0.7 compatible
+[Notebook: Julia tutorial](http://nbviewer.jupyter.org/github/lin-lin/MATH228A/blob/master/notebooks/Basics.ipynb), v0.7 compatible
 
 Here are a few other online documents (some information may be
 out-of-date).
@@ -38,6 +38,9 @@ out-of-date).
 ## Lecture 2 (8/24)
 
 Lipschitz continuity; Euler's method
+
+[Notebook: Forward Euler method](http://nbviewer.jupyter.org/github/lin-lin/MATH228A/blob/master/notebooks/ForwardEuler.ipynb)
+
 
 ## Lecture 3 (8/27)
 
