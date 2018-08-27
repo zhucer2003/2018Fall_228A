@@ -1,11 +1,29 @@
 # Fall 2018 228A Lecture notes 
 
+Recommended Textbook (you DO NOT need to buy them)
+
+**[Lev]** R. J. LeVeque, Finite difference methods for ordinary and partial differential equations, steady state and time dependent problems, SIAM, 2007.
+
+**[Ise]** A. Iserles, A first course in the numerical analysis of differential equations, Second Edition, Cambridge Univ. Press, 2009
+
+**[Hai]** E. Hairer, S. P. Norsett and G. Wanner, Solving ordinary differential equations, Second Edition (2 vols.), Springer, 2008.
+
+**[Saa]** Y. Saad, Iterative methods for sparse linear systems, SIAM, 2003
+
+ Related materials
+
+**[Gu]** M. Gu, Lecture notes Math 228A Fall 2014 [(web)](http://math.berkeley.edu/~mgu/MA228A)
+**[Per]** P. Persson, Lecture notes Math 228A Fall 2013
+[(web)](http://persson.berkeley.edu/228A)
+**[Wil]** J. Wilkening, Lecture notes Math 228A Fall 2007 [(pdf)](https://math.berkeley.edu/~linlin/2015Fall_228A/wilkening_228A_notes.pdf)
+
 ## Lecture 1 (8/22)
 
 General discussion on ordinary differential equations.
 
 Introducing Julia. 
 
+**Reading**: [LeV] 5.1, 5.2 [Hai] I.7,I.8
 
 [Handout slides](https://github.com/lin-lin/MATH228A/blob/master/others/228A_Note_general.pdf)
 
@@ -34,7 +52,6 @@ out-of-date).
 [Julia manual](https://docs.julialang.org/en/stable/)
 
 
-
 ## Lecture 2 (8/24)
 
 Lipschitz continuity; Euler's method
@@ -43,6 +60,13 @@ Lipschitz continuity; Euler's method
 
 
 ## Lecture 3 (8/27)
+
+Convergence of Euler's method
+
+
+[Lecture Note 1](https://github.com/lin-lin/MATH228A/blob/master/lectures/228A_Lec1.pdf)
+
+**Reading**: [LeV] 5.1, 5.2 [Hai] I.7,I.8
 
 
 ## Lecture 4 (8/29)
