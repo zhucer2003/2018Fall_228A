@@ -13,8 +13,10 @@ Recommended Textbook (you DO NOT need to buy them)
  Related materials
 
 **[Gu]** M. Gu, Lecture notes Math 228A Fall 2014 [(web)](http://math.berkeley.edu/~mgu/MA228A)
+
 **[Per]** P. Persson, Lecture notes Math 228A Fall 2013
 [(web)](http://persson.berkeley.edu/228A)
+
 **[Wil]** J. Wilkening, Lecture notes Math 228A Fall 2007 [(pdf)](https://math.berkeley.edu/~linlin/2015Fall_228A/wilkening_228A_notes.pdf)
 
 ## Lecture 1 (8/22)
@@ -64,7 +66,7 @@ Lipschitz continuity; Euler's method
 Convergence of Euler's method
 
 
-[Lecture Note 1](https://github.com/lin-lin/MATH228A/blob/master/lectures/228A_Lec1.pdf)
+[Lecture Note 1 (pdf)](https://github.com/lin-lin/MATH228A/blob/master/lectures/228A_Lec1.pdf)
 
 **Reading**: [LeV] 5.1, 5.2 [Hai] I.7,I.8
 
