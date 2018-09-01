@@ -60,6 +60,8 @@ Lipschitz continuity; Euler's method
 
 [Notebook: Forward Euler method](http://nbviewer.jupyter.org/github/lin-lin/MATH228A/blob/master/notebooks/ForwardEuler.ipynb)
 
+**Reading**: [Wil] pp 26-30, 41-44 
+
 
 ## Lecture 3 (8/27)
 
@@ -68,16 +70,44 @@ Convergence of Euler's method
 
 [Lecture Note 1 (pdf)](https://github.com/lin-lin/MATH228A/blob/master/lectures/228A_Lec1.pdf)
 
-**Reading**: [LeV] 5.1, 5.2 [Hai] I.7,I.8
+**Reading**: [LeV] 6.1-6.3
 
 
 ## Lecture 4 (8/29)
 
+Adams-Bashforth method and Adams-Moulton method
+
+**Reading**: [LeV] 5.3-5.6 [Ise] 1.2-1.4
+
 
 ## Lecture 5 (8/31)
 
+Convergence of trapezoidal rule; Fixed point problem and fixed point iteration
+
+**Reading**: [Ise] 2.1-2.3; [Hai] III.1
+
+[Tobias von Petersdorff's notes on contraction mapping (with some numerics)](https://github.com/lin-lin/MATH228A/blob/master/others/ContractionMapping.pdf)
 
 ## Lecture 6 (9/5)
 
+Linear multistep method. 
+
+**Reading**: [Ise] 2.1-2.3; [Hai] III.1;
+
 ## Lecture 7 (9/7)
 
+**Reading**: 
+
+## Lecture 8 (9/10)
+
+**Reading**: 
+
+
+## Lecture 9 (9/12)
+
+**Reading**: 
+
+
+## Lecture 10 (9/14)
+
+**Reading**: 
