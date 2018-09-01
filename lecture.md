@@ -27,18 +27,18 @@ Introducing Julia.
 
 **Reading**: [LeV] 5.1, 5.2 [Hai] I.7,I.8
 
-[Handout slides](https://github.com/lin-lin/MATH228A/blob/master/others/228A_Note_general.pdf)
+[Handout slides](https://github.com/lin-lin/2018Fall_228A/blob/master/others/228A_Note_general.pdf)
 
 
 **Note**: v0.7 and v1.0 released on 8/8/2018 introduces many breaking
 changes. So there is a bit learning curve if you are somewhat familiar
 with previous versions of Julia before. I compiled a few things below I
 noticed when migrating my old code snippets and notebooks used in the
-lecture in this [pdf file](https://github.com/lin-lin/MATH228A/blob/master/others/JuliaChange_v0.7.pdf).
+lecture in this [pdf file](https://github.com/lin-lin/2018Fall_228A/blob/master/others/JuliaChange_v0.7.pdf).
 
 Here is a notebook introducing some basic features of Julia.
 
-[Notebook: Julia tutorial](http://nbviewer.jupyter.org/github/lin-lin/MATH228A/blob/master/notebooks/Basics.ipynb), v0.7 compatible
+[Notebook: Julia tutorial](http://nbviewer.jupyter.org/github/lin-lin/2018Fall_228A/blob/master/notebooks/Basics.ipynb), v0.7 compatible
 
 Here are a few other online documents (some information may be
 out-of-date).
@@ -47,7 +47,7 @@ out-of-date).
 
 [The Julia Express](http://bogumilkaminski.pl/files/julia_express.pdf)
 
-[Steven Johnson's Julia-intro](https://github.com/lin-lin/MATH228A/blob/master/others/Julia-intro.pdf) 
+[Steven Johnson's Julia-intro](https://github.com/lin-lin/2018Fall_228A/blob/master/others/Julia-intro.pdf) 
 
 [MATLAB–Python–Julia cheatsheet](https://cheatsheets.quantecon.org/)
 
@@ -58,7 +58,7 @@ out-of-date).
 
 Lipschitz continuity; Euler's method
 
-[Notebook: Forward Euler method](http://nbviewer.jupyter.org/github/lin-lin/MATH228A/blob/master/notebooks/ForwardEuler.ipynb)
+[Notebook: Forward Euler method](http://nbviewer.jupyter.org/github/lin-lin/2018Fall_228A/blob/master/notebooks/ForwardEuler.ipynb)
 
 **Reading**: [Wil] pp 26-30, 41-44 
 
@@ -68,7 +68,7 @@ Lipschitz continuity; Euler's method
 Convergence of Euler's method
 
 
-[Lecture Note 1 (pdf)](https://github.com/lin-lin/MATH228A/blob/master/lectures/228A_Lec1.pdf)
+[Lecture Note 1 (pdf)](https://github.com/lin-lin/2018Fall_228A/blob/master/lectures/228A_Lec1.pdf)
 
 **Reading**: [LeV] 6.1-6.3
 
@@ -86,7 +86,7 @@ Convergence of trapezoidal rule; Fixed point problem and fixed point iteration
 
 **Reading**: [Ise] 2.1-2.3; [Hai] III.1
 
-[Tobias von Petersdorff's notes on contraction mapping (with some numerics)](https://github.com/lin-lin/MATH228A/blob/master/others/ContractionMapping.pdf)
+[Tobias von Petersdorff's notes on contraction mapping (with some numerics)](https://github.com/lin-lin/2018Fall_228A/blob/master/others/ContractionMapping.pdf)
 
 ## Lecture 6 (9/5)
 
