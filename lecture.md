@@ -84,23 +84,29 @@ Adams-Bashforth method and Adams-Moulton method
 
 Convergence of trapezoidal rule; Fixed point problem and fixed point iteration
 
-**Reading**: [Ise] 2.1-2.3; [Hai] III.1
+**Reading**: [Ise] 2.1; [Hai] III.1
 
 [Tobias von Petersdorff's notes on contraction mapping (with some numerics)](https://github.com/lin-lin/2018Fall_228A/blob/master/others/ContractionMapping.pdf)
 
 ## Lecture 6 (9/5)
 
-Linear multistep method. 
+Consistency of linear multistep method.  
 
-**Reading**: [Ise] 2.1-2.3; [Hai] III.1;
+[Lecture Note 2 (pdf)](https://github.com/lin-lin/2018Fall_228A/blob/master/lectures/228A_Lec2.pdf)
+
+**Reading**: [Ise] 2.2; 6.1-6.2
 
 ## Lecture 7 (9/7)
 
-**Reading**: 
+Adaptive time stepping. Zero stability of LMM
+
+**Reading**: [LeV] 6.1-6.4; [Hai] III.3-4
 
 ## Lecture 8 (9/10)
 
-**Reading**: 
+Zero stability of LMM
+
+**Reading**: [Wil] pp 61-77
 
 
 ## Lecture 9 (9/12)
