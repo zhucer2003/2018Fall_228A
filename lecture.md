@@ -68,7 +68,7 @@ Lipschitz continuity; Euler's method
 Convergence of Euler's method
 
 
-[Lecture Note 1 (pdf)](https://github.com/lin-lin/2018Fall_228A/blob/master/lectures/228A_Lec1.pdf)
+[Lecture Note 1 (pdf)](lectures/228A_Lec1.pdf)
 
 **Reading**: [LeV] 6.1-6.3
 
@@ -92,11 +92,14 @@ Convergence of trapezoidal rule; Fixed point problem and fixed point iteration
 
 Consistency of linear multistep method.  
 
-[Lecture Note 2 (pdf)](https://github.com/lin-lin/2018Fall_228A/blob/master/lectures/228A_Lec2.pdf)
+[Lecture Note 2 (pdf)](lectures/228A_Lec2.pdf)
 
 **Reading**: [Ise] 2.2; 6.1-6.2
 
 ## Lecture 7 (9/7)
+
+
+[Notebook: Zero stability of LMM](http://nbviewer.jupyter.org/github/lin-lin/2018Fall_228A/blob/master/notebooks/LMM.ipynb)
 
 Adaptive time stepping. Zero stability of LMM
 
@@ -104,16 +107,24 @@ Adaptive time stepping. Zero stability of LMM
 
 ## Lecture 8 (9/10)
 
-Zero stability of LMM
+[Lecture Note 3 (pdf)](lectures/228A_Lec3.pdf)
+
+[Details of the proof of general convergence theory of LMM (pdf)](lectures/LMMConvergence.pdf)
+
+Zero stability of LMM; Convergence of general LMM
 
 **Reading**: [Wil] pp 61-77
 
 
 ## Lecture 9 (9/12)
 
-**Reading**: 
+Runge-Kutta method. 
+
+**Reading**: [Ise] 3.1-3.3. [Hai] II.2
 
 
 ## Lecture 10 (9/14)
 
-**Reading**: 
+Consistency of Runge-Kutta method. 
+
+**Reading**: [Wil] pp 95-107
