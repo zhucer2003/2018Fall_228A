@@ -140,16 +140,18 @@ Consistency of Runge-Kutta method. Diagram method.
 
 ## Lecture 12 (9/19)
 
-Zero stability of Runge-Kutta method. Embedded Runge-Kutta method.
+Zero stability of Runge-Kutta method. 
 
 **Reading**: [Hai] II.3 
 
 
 ## Lecture 13 (9/21)
 
-Collocation method.
+Collocation method. Consistency
 
-**Reading**: [Ise] 3.1-3.4 
+[Notebook: Gauss quadrature](http://nbviewer.jupyter.org/github/lin-lin/2018Fall_228A/blob/master/notebooks/GaussQuadrature.ipynb)
+
+**Reading**: [Ise] 3.1-3.4, [Hai] I.14
 
 ## Lecture 14 (9/24)
 
@@ -157,6 +159,8 @@ Collocation method.
 
 
 ## Lecture 15 (9/26)
+
+Embedded Runge-Kutta method.
 
 **Reading**: 
 
