@@ -155,19 +155,30 @@ Collocation method. Consistency
 
 ## Lecture 14 (9/24)
 
+Gauss quadrature. Lanczos method.
+
 **Reading**: 
+
+[D. Levy's notes on Gauss quadrature](others/GaussianQuad.pdf)
+
+[G. Golub, G. Meurant, Matrices, moments and quadrature, (1993)](others/GM93.pdf)
+
+[G. Golub, J.H. Welsch, Calculation of Gauss Quadrature Rules, (1968) 221–230](others/GM68.pdf)
 
 
 ## Lecture 15 (9/26)
 
-Embedded Runge-Kutta method.
+Embedded Runge-Kutta method. Absolute stability
 
-**Reading**: 
+**Reading**: [LeV] 7.1-7.4 
 
+[Lecture Note 5 (pdf)](lectures/228A_Lec5.pdf)
 
 ## Lecture 16 (9/28)
 
-**Reading**: 
+Absolute stability
+
+**Reading**: [LeV] 7.5-7.7. [Ise] 4.2-4.4
 
 ## Lecture 17 (10/1)
 
