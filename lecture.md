@@ -159,6 +159,8 @@ Gauss quadrature. Lanczos method.
 
 **Reading**: 
 
+[Lecture Note 5 (pdf)](lectures/228A_Lec5.pdf)
+
 [D. Levy's notes on Gauss quadrature](others/GaussianQuad.pdf)
 
 [G. Golub, G. Meurant, Matrices, moments and quadrature, (1993)](others/GM93.pdf)
@@ -172,7 +174,6 @@ Embedded Runge-Kutta method. Absolute stability
 
 **Reading**: [LeV] 7.1-7.4 
 
-[Lecture Note 5 (pdf)](lectures/228A_Lec5.pdf)
 
 ## Lecture 16 (9/28)
 
@@ -180,15 +181,39 @@ Absolute stability
 
 **Reading**: [LeV] 7.5-7.7. [Ise] 4.2-4.4
 
+[Lecture Note 6 (pdf)](lectures/228A_Lec6.pdf)
+
 ## Lecture 17 (10/1)
 
-**Reading**: 
+Stiff equations
+
+**Reading**: [LeV] 8.1-8.3. [Ise] 4.1. [Hai] IV.1. 
 
 ## Lecture 18 (10/3)
 
-**Reading**: 
+Stiff equations
+
+**Reading**: [LeV] 8.1-8.3. [Ise] 4.1. [Hai] IV.1. 
 
 ## Lecture 19 (10/5)
 
+Hamiltonian system. 
+
+**Reading**:  [Ise] 5.4.
+
+
+## Lecture 20 (10/8)
+
+Hamiltonian system. 
+
+**Reading**:  [Ise] 5.4.
+
+
+## Lecture 21 (10/10)
+
 **Reading**: 
 
+
+## Lecture 22 (10/12)
+
+**Reading**: 
