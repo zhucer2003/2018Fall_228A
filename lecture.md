@@ -183,6 +183,8 @@ Absolute stability
 
 [Lecture Note 6 (pdf)](lectures/228A_Lec6.pdf)
 
+[Notebook: Stability region](http://nbviewer.jupyter.org/github/lin-lin/2018Fall_228A/blob/master/notebooks/StabilityRegion.ipynb)
+
 ## Lecture 17 (10/1)
 
 Stiff equations
