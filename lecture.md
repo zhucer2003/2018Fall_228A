@@ -191,11 +191,16 @@ Stiff equations
 
 **Reading**: [LeV] 8.1-8.3. [Ise] 4.1. [Hai] IV.1. 
 
+[Notebook: Stiff equations](http://nbviewer.jupyter.org/github/lin-lin/2018Fall_228A/blob/master/notebooks/StiffEquation.ipynb)
+
 ## Lecture 18 (10/3)
 
 Stiff equations
 
 **Reading**: [LeV] 8.1-8.3. [Ise] 4.1. [Hai] IV.1. 
+
+[Lecture Note 7 (pdf)](lectures/228A_Lec7.pdf)
+
 
 ## Lecture 19 (10/5)
 
@@ -213,9 +218,32 @@ Hamiltonian system.
 
 ## Lecture 21 (10/10)
 
-**Reading**: 
+Hamiltonian system. 
+
+**Reading**:  [Ise] 5.4.
 
 
 ## Lecture 22 (10/12)
+
+Exponential time differencing method.
+
+**Reading**: [LeV] 11.6.
+
+## Lecture 23 (10/15)
+
+Exponential time differencing method.
+
+**Reading**: [LeV] 11.6.
+
+
+## Lecture 24 (10/17)
+
+Nonlinear equations. 
+
+**Reading**: [Ise] 7.1-7.3  
+
+
+
+## Lecture 25 (10/19)
 
 **Reading**: 
