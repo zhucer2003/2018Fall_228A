@@ -208,6 +208,9 @@ Hamiltonian system.
 
 **Reading**:  [Ise] 5.4.
 
+[Notebook: Symplectic integrator](http://nbviewer.jupyter.org/github/lin-lin/2018Fall_228A/blob/master/notebooks/Symplectic.ipynb)
+
+[Lecture Note 8 (pdf)](lectures/228A_Lec8.pdf)
 
 ## Lecture 20 (10/8)
 
@@ -215,6 +218,13 @@ Hamiltonian system.
 
 **Reading**:  [Ise] 5.4.
 
+Some excellent reading materials given by Ernst Hairer:
+
+https://www.unige.ch/~hairer/poly_geoint/week1.pdf
+
+https://www.unige.ch/~hairer/poly_geoint/week2.pdf
+
+https://www.unige.ch/~hairer/poly_geoint/week3.pdf
 
 ## Lecture 21 (10/10)
 
@@ -225,9 +235,10 @@ Hamiltonian system.
 
 ## Lecture 22 (10/12)
 
-Exponential time differencing method.
+Hamiltonian system. 
 
-**Reading**: [LeV] 11.6.
+**Reading**:  [Ise] 5.4.
+
 
 ## Lecture 23 (10/15)
 
