@@ -232,6 +232,10 @@ Hamiltonian system.
 
 **Reading**:  [Ise] 5.4.
 
+Recent work on the interesting connection between optimization and symplectic
+integration:
+
+M. Betancourt, M.I. Jordan, A.C. Wilson, On Symplectic Optimization, (2018) http://arxiv.org/abs/1802.03653.
 
 ## Lecture 22 (10/12)
 
@@ -239,22 +243,42 @@ Hamiltonian system.
 
 **Reading**:  [Ise] 5.4.
 
+[Lecture Note 9 (pdf)](lectures/228A_Lec9.pdf)
 
 ## Lecture 23 (10/15)
+
+Hamiltonian system. 
+
+**Reading**:  [Ise] 5.4.
+
+
+## Lecture 24 (10/17)
+
 
 Exponential time differencing method.
 
 **Reading**: [LeV] 11.6.
 
 
-## Lecture 24 (10/17)
+## Lecture 25 (10/19)
+
+Exponential time differencing method.
+
+**Reading**: [LeV] 11.6.
+
+
+## Lecture 26 (10/22)
+
+**Reading**: 
+
+
+## Lecture 27 (10/24)
 
 Nonlinear equations. 
 
 **Reading**: [Ise] 7.1-7.3  
 
 
-
-## Lecture 25 (10/19)
+## Lecture 28 (10/26)
 
 **Reading**: 
