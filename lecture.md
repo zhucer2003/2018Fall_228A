@@ -272,7 +272,7 @@ Exponential time differencing method.
 
 **Reading**: [LeV] 11.6.
 
-[Notebook: Exponential time differencing](http://nbviewer.jupyter.org/github/lin-lin/2018Fall_228A/blob/master/notebooks/Matrix_exponential.ipynb)
+[Notebook: Matrix exponentials](http://nbviewer.jupyter.org/github/lin-lin/2018Fall_228A/blob/master/notebooks/Matrix_exponential.ipynb)
 
 ## Lecture 26 (10/22)
 
