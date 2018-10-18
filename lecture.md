@@ -251,14 +251,20 @@ Hamiltonian system.
 
 **Reading**:  [Ise] 5.4.
 
-
 ## Lecture 24 (10/17)
-
 
 Exponential time differencing method.
 
 **Reading**: [LeV] 11.6.
 
+[Notebook: Exponential time differencing](http://nbviewer.jupyter.org/github/lin-lin/2018Fall_228A/blob/master/notebooks/ExponentialTimeDifferencing.ipynb)
+
+
+S.M. Cox, P.C. Matthews, Exponential Time Differencing for Stiff Systems, J. Comput. Phys. 176 (2002) 430–455. 
+
+A.-K. Kassam, L.N. Trefethen, Fourth-Order Time-Stepping for Stiff PDEs, SIAM J. Sci. Comput. 26 (2005) 1214–1233.
+
+C. Moler, C. Van Loan, Nineteen Dubious Ways to Compute the Exponential of a Matrix, Twenty-Five Years Later, SIAM Rev. 45 (2003) 3–49.
 
 ## Lecture 25 (10/19)
 
@@ -266,10 +272,13 @@ Exponential time differencing method.
 
 **Reading**: [LeV] 11.6.
 
+[Notebook: Exponential time differencing](http://nbviewer.jupyter.org/github/lin-lin/2018Fall_228A/blob/master/notebooks/Matrix_exponential.ipynb)
 
 ## Lecture 26 (10/22)
 
-**Reading**: 
+Nonlinear equations. 
+
+**Reading**: [Ise] 7.1-7.3  
 
 
 ## Lecture 27 (10/24)
@@ -280,5 +289,62 @@ Nonlinear equations.
 
 
 ## Lecture 28 (10/26)
+
+**Reading**: 
+
+
+## Lecture 29 (10/29)
+
+**Reading**: 
+
+
+## Lecture 30 (10/31)
+
+
+**Reading**: 
+
+
+## Lecture 31 (11/2)
+
+**Reading**: 
+
+
+## Lecture 32 (11/5)
+
+**Reading**: 
+
+
+## Lecture 33 (11/7)
+
+
+**Reading**: 
+
+
+## Lecture 34 (11/9)
+
+**Reading**: 
+
+
+## Lecture 35 (11/14)
+
+**Reading**: 
+
+
+## Lecture 36 (11/16)
+
+**Reading**: 
+
+
+## Lecture 37 (11/19)
+
+**Reading**: 
+
+
+## Lecture 38 (11/26)
+
+**Reading**: 
+
+
+## Lecture 39 (11/28)
 
 **Reading**: 
