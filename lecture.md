@@ -274,6 +274,8 @@ Exponential time differencing method.
 
 [Notebook: Matrix exponentials](http://nbviewer.jupyter.org/github/lin-lin/2018Fall_228A/blob/master/notebooks/Matrix_exponential.ipynb)
 
+[Lecture Note 10 (pdf)](lectures/228A_Lec10.pdf)
+
 ## Lecture 26 (10/22)
 
 Nonlinear equations. 
