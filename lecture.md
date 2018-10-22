@@ -284,7 +284,7 @@ Nonlinear equations.
 
 [Lecture Note 11 (pdf)](lectures/228A_Lec11.pdf)
 
-[Notebook: Nonlinear equations](http://nbviewer.jupyter.org/github/lin-lin/2018Fall_228A/blob/master/notebooks/Nonlinear equations.ipynb)
+[Notebook: Nonlinear equations](http://nbviewer.jupyter.org/github/lin-lin/2018Fall_228A/blob/master/notebooks/NonlinearEquations.ipynb)
 
 
 ## Lecture 27 (10/24)
