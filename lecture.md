@@ -300,7 +300,12 @@ Krylov methods
 
 **Reading**: 
 
+
 [Lev]4.1-4.5 [Saa] 6.5-6.12
+
+[Lecture Note 12 (pdf)](lectures/228A_Lec12.pdf)
+
+[Notebook: Krylov 2D example](http://nbviewer.jupyter.org/github/lin-lin/2018Fall_228A/blob/master/notebooks/Krylov2D.ipynb)
 
 ## Lecture 29 (10/29)
 
@@ -309,6 +314,8 @@ Krylov methods
 **Reading**: 
 
 [Lev]4.1-4.5 [Saa] 6.5-6.12
+
+[Notebook: Krylov Laplace equation](http://nbviewer.jupyter.org/github/lin-lin/2018Fall_228A/blob/master/notebooks/KrylovLaplace.ipynb)
 
 
 ## Lecture 30 (10/31)
