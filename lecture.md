@@ -296,28 +296,47 @@ Nonlinear equations.
 
 ## Lecture 28 (10/26)
 
+Krylov methods
+
 **Reading**: 
 
+[Lev]4.1-4.5 [Saa] 6.5-6.12
 
 ## Lecture 29 (10/29)
 
+Krylov methods
+
 **Reading**: 
+
+[Lev]4.1-4.5 [Saa] 6.5-6.12
 
 
 ## Lecture 30 (10/31)
 
 
+Krylov methods
+
 **Reading**: 
+
+[Lev]4.1-4.5 [Saa] 6.5-6.12
 
 
 ## Lecture 31 (11/2)
 
+Krylov methods
+
 **Reading**: 
+
+[Lev]4.1-4.5 [Saa] 6.5-6.12
 
 
 ## Lecture 32 (11/5)
 
+Krylov methods
+
 **Reading**: 
+
+[Lev]4.1-4.5 [Saa] 6.5-6.12
 
 
 ## Lecture 33 (11/7)
