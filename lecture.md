@@ -336,6 +336,10 @@ Krylov methods
 
 [Lev]4.1-4.5 [Saa] 6.5-6.12
 
+[Wen Shen's notes on convergence of CG (pdf)](others/CG_Chebyshev.pdf) (in particular, detailed derivation of the $\sqrt{\kappa}$ convergence using Chebyshev polynomial) 
+
+[Lecture Note 13 (pdf)](lectures/228A_Lec13.pdf)
+
 
 ## Lecture 32 (11/5)
 
@@ -344,6 +348,9 @@ Krylov methods
 **Reading**: 
 
 [Lev]4.1-4.5 [Saa] 6.5-6.12
+
+
+[Notebook: Krylov Helmholtz equation](http://nbviewer.jupyter.org/github/lin-lin/2018Fall_228A/blob/master/notebooks/KrylovHelmholtz.ipynb)
 
 
 ## Lecture 33 (11/7)
