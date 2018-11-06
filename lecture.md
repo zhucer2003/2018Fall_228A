@@ -296,7 +296,7 @@ Nonlinear equations.
 
 ## Lecture 28 (10/26)
 
-Krylov methods
+Krylov methods 
 
 **Reading**: 
 
@@ -338,8 +338,6 @@ Krylov methods
 
 [Wen Shen's notes on convergence of CG (pdf)](others/CG_Chebyshev.pdf) (in particular, detailed derivation of the $\sqrt{\kappa}$ convergence using Chebyshev polynomial) 
 
-[Lecture Note 13 (pdf)](lectures/228A_Lec13.pdf)
-
 
 ## Lecture 32 (11/5)
 
@@ -349,24 +347,34 @@ Krylov methods
 
 [Lev]4.1-4.5 [Saa] 6.5-6.12
 
-
 [Notebook: Krylov Helmholtz equation](http://nbviewer.jupyter.org/github/lin-lin/2018Fall_228A/blob/master/notebooks/KrylovHelmholtz.ipynb)
 
 
 ## Lecture 33 (11/7)
 
+Krylov methods
 
 **Reading**: 
+[Saa] 6.5-6.12
+
+[Lecture Note 13 (pdf)](lectures/228A_Lec13.pdf)
+
 
 
 ## Lecture 34 (11/9)
 
+Sparse direct methods
+
 **Reading**: 
+[Ise] 10.1-10.2
 
 
 ## Lecture 35 (11/14)
 
+Sparse direct methods
+
 **Reading**: 
+[Ise] 10.1-10.2
 
 
 ## Lecture 36 (11/16)
