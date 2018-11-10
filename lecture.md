@@ -368,6 +368,9 @@ Sparse direct methods
 **Reading**: 
 [Ise] 10.1-10.2
 
+[Notebook: Sparse direct methods](http://nbviewer.jupyter.org/github/lin-lin/2018Fall_228A/blob/master/notebooks/SparseDirect.ipynb)
+ 
+
 
 ## Lecture 35 (11/14)
 
