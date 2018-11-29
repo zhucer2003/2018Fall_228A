@@ -395,3 +395,4 @@ Spectral methods
 
 [Lecture Note 15 (pdf)](lectures/228A_Lec15.pdf)
 
+L.N. Trefethen, Is Gauss quadrature better than Clenshaw-Curtis?, SIAM Rev. 50 (2008) 67--87. 
