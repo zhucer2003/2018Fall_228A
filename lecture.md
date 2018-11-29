@@ -379,22 +379,19 @@ Sparse direct methods
 **Reading**: 
 [Ise] 10.1-10.2
 
+[Lecture Note 14 (pdf)](lectures/228A_Lec14.pdf)
 
-## Lecture 36 (11/16)
+## Lecture 36 (11/26)
 
-**Reading**: 
-
-
-## Lecture 37 (11/19)
-
-**Reading**: 
+Sparse direct methods
 
 
-## Lecture 38 (11/26)
+## Lecture 37 (11/28)
+
+Spectral methods
 
 **Reading**: 
+[Notebook: Spectral methods](http://nbviewer.jupyter.org/github/lin-lin/2018Fall_228A/blob/master/notebooks/SpectralMethod.ipynb)
 
+[Lecture Note 15 (pdf)](lectures/228A_Lec15.pdf)
 
-## Lecture 39 (11/28)
-
-**Reading**: 
